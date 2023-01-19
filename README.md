@@ -21,7 +21,7 @@ mvn clean install
   
 ## Run parameters
 
-The program parameters are set at startup through command line arguments and represents type of vehicle:
+The program parameters are set at startup through command line arguments and represents type of vehicle:  
   0 is for Motorcycle;  
   1 is for Scooter;  
   2 is for Car;  
