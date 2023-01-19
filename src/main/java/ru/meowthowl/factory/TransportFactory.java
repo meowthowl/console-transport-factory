@@ -1,11 +1,11 @@
-package factory;
+package ru.meowthowl.factory;
 
-import constants.TransportType;
-import transport.Transport;
-import transport.vehicles.Bus;
-import transport.vehicles.Car;
-import transport.vehicles.Motorcycle;
-import transport.vehicles.Scooter;
+import ru.meowthowl.constants.TransportType;
+import ru.meowthowl.transport.Transport;
+import ru.meowthowl.transport.vehicles.Bus;
+import ru.meowthowl.transport.vehicles.Car;
+import ru.meowthowl.transport.vehicles.Motorcycle;
+import ru.meowthowl.transport.vehicles.Scooter;
 
 public class TransportFactory {
     public Transport createTransport(TransportType type) {

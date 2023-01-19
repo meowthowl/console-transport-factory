@@ -1,6 +1,6 @@
-package transport.vehicles;
+package ru.meowthowl.transport.vehicles;
 
-import transport.Transport;
+import ru.meowthowl.transport.Transport;
 
 public class Scooter extends Transport {
     public Scooter() {
@@ -16,7 +16,7 @@ public class Scooter extends Transport {
 
     @Override
     public String toString() {
-        return "Название: " + name + '\n'
+        return  "Название: " + name + '\n'
                 + "Кол-во колес: " + wheels + '\n'
                 + "Максимальная скорость: " + maxSpeed + "км/ч" + '\n'
                 + getUniqueCharacteristics() + '\n';

@@ -1,4 +1,4 @@
-package constants;
+package ru.meowthowl.constants;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

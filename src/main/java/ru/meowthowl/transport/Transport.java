@@ -1,4 +1,4 @@
-package transport;
+package ru.meowthowl.transport;
 
 public abstract class Transport {
     protected String name;

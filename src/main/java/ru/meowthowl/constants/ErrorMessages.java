@@ -1,4 +1,4 @@
-package constants;
+package ru.meowthowl.constants;
 
 public class ErrorMessages {
 

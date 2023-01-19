@@ -1,6 +1,6 @@
-package transport.vehicles;
+package ru.meowthowl.transport.vehicles;
 
-import transport.Transport;
+import ru.meowthowl.transport.Transport;
 
 public class Motorcycle extends Transport {
     public Motorcycle() {
@@ -16,7 +16,7 @@ public class Motorcycle extends Transport {
 
     @Override
     public String toString() {
-        return "Название: " + name + '\n'
+        return  "Название: " + name + '\n'
                 + "Кол-во колес: " + wheels + '\n'
                 + "Максимальная скорость: " + maxSpeed + "км/ч" + '\n'
                 + getUniqueCharacteristics() + '\n';

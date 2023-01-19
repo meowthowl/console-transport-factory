@@ -1,9 +1,9 @@
-package utils;
+package ru.meowthowl.utils;
 
-import constants.ErrorMessages;
-import constants.TransportType;
-import factory.TransportFactory;
-import transport.Transport;
+import ru.meowthowl.constants.ErrorMessages;
+import ru.meowthowl.constants.TransportType;
+import ru.meowthowl.factory.TransportFactory;
+import ru.meowthowl.transport.Transport;
 
 public class ArgsUtils {
 
