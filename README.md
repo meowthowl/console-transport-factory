@@ -30,7 +30,7 @@ The program parameters are set at startup through command line arguments and rep
 ## Run example
 
   ```
-  java -jar C:\path\to\folder\ConsoleTransportFactory-1.0-SNAPSHOT.jar 0 1 2 3
+  java -jar C:\path\to\jar\folder\ConsoleTransportFactory.jar 0 1 2 3
   ```
 
 ## Contacts
