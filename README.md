@@ -27,7 +27,7 @@ The program parameters are set at startup through command line arguments and rep
   2 is for Car;  
   3 is for Bus.  
 
-## Run exampe
+## Run example
 
   ```
   java -jar C:\path\to\folder\ConsoleTransportFactory-1.0-SNAPSHOT.jar 0 1 2 3
