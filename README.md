@@ -12,12 +12,6 @@ Java 1.8 or higher
 - Maven 4
 
 - Lombok
-
-## Build
-
-  ```
-mvn clean install
-  ```
   
 ## Run parameters
 
